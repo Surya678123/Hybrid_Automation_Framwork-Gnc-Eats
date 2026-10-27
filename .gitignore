@@ -1,0 +1,20 @@
+# Eclipse metadata files
+.project
+.classpath
+.settings/
+bin/
+
+# Maven build directory
+target/
+*.class
+
+# Test execution artifacts & logs (From your project)
+test-output/
+logs/
+reports/
+screenshots/
+*.log
+
+# OS temporary files
+.DS_Store
+Thumbs.db
